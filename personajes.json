@@ -3,8 +3,8 @@
     "personaje secundario":"mi gato",
     "antagonista": "el capitalismo",
     "objeto":{"key":"value"},
-    "lisita":[1,2,true,{},"hola mundo"]
-
+    "lisita":[1,2,true,{},"hola mundo"],
+    "error":true
 }
 
 

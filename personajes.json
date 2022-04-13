@@ -1,0 +1,13 @@
+{
+    "personaje princial":"yo",
+    "personaje secundario":"mi gato",
+    "antagonista": "el capitalismo",
+    "objeto":{"key":"value"},
+    "lisita":[1,2,true,{},"hola mundo"]
+
+}
+
+
+
+
+

@@ -1,5 +1,0 @@
-personaje princial: yo
-personaje secundario: mi gato
-
-
-antagonista: el capitalismo

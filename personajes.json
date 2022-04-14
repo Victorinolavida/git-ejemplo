@@ -4,8 +4,7 @@
     "antagonista": "el capitalismo",
     "objeto":{"key":"value"},
     "lisita":[1,2,true,{},"hola mundo"],
-    "error":false,  
-    "error":true
+    "error":false
 }
 
 
